@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.model\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeToolTip": "ASC.Web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:04:35.937Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:53:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\appsettings.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T16:27:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\IdentitySeed.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\IdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:34:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:16:50.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\DependencyInjection.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:34:28.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:54:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T02:38:31.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T02:38:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Model\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Model\\Model\\Product.cs",
+              "RelativeToolTip": "ASC.Model\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:14:17.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
