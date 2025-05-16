@@ -13,6 +13,7 @@
           "ASC.Model": "1.0.0",
           "ASC.Utilities": "1.0.0",
           "MailKit": "4.11.0",
+          "Microsoft.AspNetCore.Authentication.Google": "3.1.20",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.5",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11",
           "Microsoft.AspNetCore.Identity.UI": "8.0.11",
@@ -619,6 +620,14 @@
           "lib/net8.0/MailKit.dll": {
             "assemblyVersion": "4.11.0.0",
             "fileVersion": "4.11.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/3.1.20": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47242"
           }
         }
       },
@@ -2323,10 +2332,7 @@
           "ASC.Model": "1.0.0"
         },
         "runtime": {
-          "ASC.Business.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.Business.dll": {}
         }
       },
       "ASC.DataAccess/1.0.0": {
@@ -2335,10 +2341,7 @@
           "ASC.Utilities": "1.0.0"
         },
         "runtime": {
-          "ASC.DataAccess.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.DataAccess.dll": {}
         }
       },
       "ASC.Model/1.0.0": {
@@ -2347,10 +2350,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11"
         },
         "runtime": {
-          "ASC.Model.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.Model.dll": {}
         }
       },
       "ASC.Utilities/1.0.0": {
@@ -2359,10 +2359,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "ASC.Utilities.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.Utilities.dll": {}
         }
       }
     }
@@ -2750,6 +2747,13 @@
       "sha512": "sha512-JVoRxJ+QRqFMRtEM4veStj3pMLBPRulQGV+iZm6Tq1pnr66Dy6dFYOW9Uw02nxAVzdZAN8G+y3BsUPtgZcKXhA==",
       "path": "mailkit/4.11.0",
       "hashPath": "mailkit.4.11.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V4t6QtL86dQQNnuMbluRejJMTLUe5+vYTW4zgd7jAAynzdOMoJV/n/GMRTB+8pdTaQw3b50uBmNR5ENXHLzc1g==",
+      "path": "microsoft.aspnetcore.authentication.google/3.1.20",
+      "hashPath": "microsoft.aspnetcore.authentication.google.3.1.20.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.11": {
       "type": "package",

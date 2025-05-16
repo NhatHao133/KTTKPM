@@ -1,0 +1,147 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@model ASC.Web.Areas.Accounts.Models.CustomerViewModel
+@inject UserManager<IdentityUser> UserManager
+@{
+    Layout = "_SecureLayout";
+}
+
+<div class="row">
+    <div class="col-md-12 padding-left-20px padding-right-20px">
+        <div class="section-white-text padding-left-10px blue-grey lighten-1">
+            <h5 class="white-text">Service Engineers</h5>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12 padding-bottom-15px">
+        @if (Model.Customers != null)
+        {
+            <table class="highlight centered">
+                <thead>
+                    <tr>
+                        <th>Email</th>
+                        <th>Active</th>
+                        <th>No. Active</th>
+                        <th>Actions</th>
+                        <th>Edit User</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model.Customers)
+                    {
+                        var identity = await UserManager.GetClaimsAsync(user);
+                        <tr>
+                            <td>@user.Email</td>
+                            <td>
+                               @(Boolean.Parse(identity.SingleOrDefault(p => p.Type == "IsActive").Value))
+                            </td>
+                            <td>
+                                <img src="@(Boolean.Parse(identity.SingleOrDefault(p => p.Type == "IsActive").Value) ? "/images/green_tick.png" : "/images/red_cross.png")" />
+                            </td>
+                            <td>
+                                <a class="small material-icons edit cursor-hand" asp-action="Edit" asp-route-id="@user.Id">edit</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="card blue-grey lighten-5">
+                <div class="card-content card-title">No Service Engineers!!</div>
+                <p>No Service Engineers found, please add a Service Engineer to system.</p>
+            </div>
+        }
+    </div>
+</div>
+@* Details Section *@
+<div class="row z-depth-3">
+    <div class="col s12 padding-0px">
+        <div class="col s12 white-text padding-left-10px blue-grey lighten-1">
+            <h5>Service Engineer Details</h5>
+        </div>
+        <div class="col s12"><div class="divider"></div></div>
+        <form asp-controller="Account" asp-action="Customers" method="post" class="col s12" id="fromUser">
+            <input type="hidden" asp-for="Registration.IsEdit" />
+            <input type="hidden" asp-for="Registration.Email" />
+            <div class="input-field col s6">
+                <input asp-for="Registration.Email" id="Input_Registration_Email" />
+                <label asp-for="Registration.Email"></label>
+            </div>
+            <div class="input-field col s4">
+                <div class="switch">
+                    <label>
+                        Is Active
+                        <input asp-for="Registration.IsActive" class="validate" />
+                        <span class="lever"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="input-field col s4 right-align">
+                <button class="btn waves-effect waves-light btnSubmit" type="submit" name="action">
+                    Save
+                    <i class="material-icons right">send</i>
+                </button>
+                <button class="btn waves-effect waves-light red lighten-1" type="button" name="action">
+                    Reset
+                </button>
+            </div>
+            <div class="row col s12 right-align" asp-validation-summary="All"></div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Initialize DataTable to show list of Engineers
+            var table = $('#tblCustomers').DataTable({
+                "lengthMenu": [3, 5, 10, -1], // Number of records to be displayed per page
+                "pageLength": 3
+            });
+
+            // Set Styles for DataTable and Number of Records to be displayed in drop-down
+            $('#tblCustomers').css('width', '100%');
+            $('#tblCustomers_length').find('label').formSelect();
+
+            // Get the column object
+            var inactiveColumn = table.column(1);
+            inactiveColumn.visible(false);
+            $('#btnSubmit').attr('disabled', 'disabled');
+
+            // Handle Reset functionality
+            $('#btnReset').on('click', '.reset', function () {
+                $('#fromUser')[0].reset();
+                $('#Input_Registration_Email').removeAttr('disabled');
+                $('#Registration_IsEdit').val('false');
+                $('#Registration_IsActive').val('false');
+                $('#btnSubmit').attr('disabled', 'disabled');
+            });
+
+            // This is required to disable Email filed on Server-side model validation failure.
+            if ($('#Registration_IsEdit').val() === "True") {
+                $('#Input_Registration_Email').attr('disabled', 'disabled');
+                $('#btnSubmit').removeAttr('disabled');
+            }
+
+            // On click of Edit icon, populate the details section with details of service engineer
+            $('#tblCustomers').on('click', '.edit', function () {
+                var user = $('#tblCustomers').DataTable().row($(this).parents('tr')).data();
+                $('#Registration_IsEdit').val('true');
+                $('#Input_Registration_Email').val(user[0]);
+                $('#Input_Registration_Email').attr('disabled', 'disabled');
+                $('#Registration_IsActive').prop('checked', user[1] === 'True' ? true : false);
+                $('#btnSubmit').removeAttr('disabled');
+                m_updateTextFields();
+            });
+
+            // Set hidden Email field to correct value from UI field
+            // This is required for
+            $('#btnSubmit').on('click', '.btnSubmit', function () {
+                $('#Registration_Email').val($('#Input_Registration_Email').val());
+                m_updateTextFields();
+            });
+        });
+    </script>
+}

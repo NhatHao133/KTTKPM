@@ -32,3 +32,39 @@ C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Dat
 C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
 C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
 C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll

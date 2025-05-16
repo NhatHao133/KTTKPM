@@ -10,13 +10,13 @@ namespace ASC.Model.Model
     public class MasterDataKey : BaseEntity
     {
         public MasterDataKey() { }
-        public MasterDataKey(string key) 
+        public MasterDataKey(string key)
         {
             this.RowKey = Guid.NewGuid().ToString();
             this.PartitionKey = key;
         }
-
         public bool IsActive { get; set; }
+        public bool IsDeleted { get; set; } 
         public string Name { get; set; }
     }
 }

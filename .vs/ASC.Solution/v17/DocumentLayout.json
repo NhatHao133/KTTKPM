@@ -1,58 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\seed_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\seed_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\configuration\\models\\masterdatakeyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\masterdatakeyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\configuration\\controllers\\masterdatacontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\controllers\\masterdatacontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\configuration\\views\\masterdata\\masterkeys.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\views\\masterdata\\masterkeys.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\configuration\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\configuration\\models\\mastervaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\mastervaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\configuration\\views\\masterdata\\mastervalues.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\views\\masterdata\\mastervalues.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E1DBA61-7349-4A80-9B6A-16A628157B6F}|ASC.Business\\ASC.Business.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.business\\masterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1DBA61-7349-4A80-9B6A-16A628157B6F}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\masterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E1DBA61-7349-4A80-9B6A-16A628157B6F}|ASC.Business\\ASC.Business.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.business\\interfaces\\imasterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1DBA61-7349-4A80-9B6A-16A628157B6F}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\interfaces\\imasterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.model\\model\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\model\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E8011871-FDA5-442F-B18E-EC0C19B0D4E3}|ASC.DataAccess\\ASC.DataAccess.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.dataaccess\\interfaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8011871-FDA5-442F-B18E-EC0C19B0D4E3}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8011871-FDA5-442F-B18E-EC0C19B0D4E3}|ASC.DataAccess\\ASC.DataAccess.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8011871-FDA5-442F-B18E-EC0C19B0D4E3}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\serviceengineers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\serviceengineers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\models\\serviceengineerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\serviceengineerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\models\\serviceengineerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\serviceengineerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\servicerequests\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\servicerequests\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|c:\\users\\hoai\\desktop\\to\u00E0n\\asc.solution\\asc.model\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7EEEEF6-32F6-4E59-906C-29A287F81EC9}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\accounts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\nhat hao\\documents\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,172 +146,421 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Program.cs",
-              "RelativeToolTip": "ASC.Web\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T17:04:35.937Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ASC.Web\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ASC.Web\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-26T04:23:30.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "seed_log.txt",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\seed_log.txt",
-              "RelativeDocumentMoniker": "ASC.Web\\seed_log.txt",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\seed_log.txt",
-              "RelativeToolTip": "ASC.Web\\seed_log.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-26T04:23:17.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_SecureLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T04:23:08.54Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\appsettings.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T16:27:56.112Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:53:34.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\appsettings.json",
-              "RelativeToolTip": "ASC.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T16:27:56.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IdentitySeed.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\IdentitySeed.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\IdentitySeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:34:55.497Z"
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T17:16:50.84Z"
+              "Title": "MasterValues.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAOsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T14:22:52.288Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Services\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
-              "RelativeToolTip": "ASC.Web\\Services\\DependencyInjection.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAAAoAAAAAAAAAA==",
+              "Title": "MasterValuesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:34:28.401Z"
+              "WhenOpened": "2025-05-12T14:12:57.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:12:48.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterKeys.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAJUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T09:48:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterDataControllerr.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataControllerr.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataControllerr.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataControllerr.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataControllerr.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAkwIMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:55:30.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterDataKeyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:33:44.642Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ApplicationSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Title": "MasterDataOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\MasterDataOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\MasterDataOperations.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\MasterDataOperations.cs",
+              "RelativeToolTip": "ASC.Business\\MasterDataOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:54:10.736Z"
+              "WhenOpened": "2025-05-02T07:44:04.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUniOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:20:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:18:27.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T02:38:31.494Z"
+              "Title": "ImasterDataOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\Interfaces\\ImasterDataOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Interfaces\\ImasterDataOperations.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\Interfaces\\ImasterDataOperations.cs",
+              "RelativeToolTip": "ASC.Business\\Interfaces\\ImasterDataOperations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:08:52.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:54:21.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:22:06.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T02:38:46.48Z"
+              "WhenOpened": "2025-04-17T13:20:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceEngineerRegistrationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:36:09.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRegistrationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:32:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceEngineerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:50:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceEngineers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T00:41:50.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T08:51:50.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:52:44.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwEMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T17:51:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\DependencyInjection.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:02:47.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Model\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\Hoai\\Desktop\\to\u00E0n\\ASC.Solution\\ASC.Model\\Model\\Product.cs",
-              "RelativeToolTip": "ASC.Model\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\Model\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Model\\MasterDataValue.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\Model\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Model\\MasterDataValue.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T17:14:17.228Z"
+              "WhenOpened": "2025-04-04T08:59:04.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwD4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:24:32.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T08:21:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T07:51:10.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ASC.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+              "RelativeDocumentMoniker": "ASC.Web\\ASC.Web.csproj",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+              "RelativeToolTip": "ASC.Web\\ASC.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T07:41:07.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAgwGMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:31:41.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\ServiceRequests\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:31:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:30:12.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeToolTip": "ASC.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:57:12.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:39:33.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResetPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:39:29.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InitiateResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:32:21.321Z"
             }
           ]
         }

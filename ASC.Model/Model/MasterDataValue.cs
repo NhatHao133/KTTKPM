@@ -19,5 +19,6 @@ namespace ASC.Model.Model
 
         public bool IsActive { get; set; }
         public string Name { get; set; }
+        public bool IsDeleted { get; set; }
     }
 }

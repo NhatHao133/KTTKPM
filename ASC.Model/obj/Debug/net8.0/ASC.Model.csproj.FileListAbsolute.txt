@@ -22,3 +22,29 @@ C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dl
 C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
 C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
 C:\Users\Hoai\Desktop\toàn\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+C:\Users\Hoai\Desktop\thực hành\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+C:\Users\Nhat Hao\Documents\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll

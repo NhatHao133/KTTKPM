@@ -739,10 +739,7 @@
           "ASC.Utilities": "1.0.0"
         },
         "runtime": {
-          "ASC.DataAccess.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.DataAccess.dll": {}
         }
       },
       "ASC.Model/1.0.0": {
@@ -751,10 +748,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.5"
         },
         "runtime": {
-          "ASC.Model.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.Model.dll": {}
         }
       },
       "ASC.Utilities/1.0.0": {
@@ -763,10 +757,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "ASC.Utilities.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ASC.Utilities.dll": {}
         }
       }
     }

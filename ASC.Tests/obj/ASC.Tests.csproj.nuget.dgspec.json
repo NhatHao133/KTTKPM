@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj": {}
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
-        "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Business\\obj\\",
+        "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+        "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
               }
             }
           }
@@ -50,8 +51,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,17 +98,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -122,8 +123,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -144,24 +144,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
-        "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\obj\\",
+        "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+        "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,6 +170,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -187,8 +188,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -219,24 +219,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj": {
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj",
         "projectName": "ASC.Tests",
-        "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj",
-        "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj",
+        "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,17 +245,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               },
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Web\\ASC.Web.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj"
               }
             }
           }
@@ -269,8 +270,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -315,24 +315,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
-        "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -341,6 +341,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -358,8 +359,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -390,24 +390,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
+    "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
         "projectName": "ASC.Web",
-        "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
-        "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Web\\obj\\",
+        "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+        "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -416,23 +416,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Business\\ASC.Business.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Business\\ASC.Business.csproj"
               },
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -446,16 +447,27 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.11.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[3.1.20, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -515,7 +527,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

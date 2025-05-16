@@ -2749,23 +2749,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hoai\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Nhat Hao\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
       "projectName": "ASC.Model",
-      "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
-      "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\obj\\",
+      "projectPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+      "packagesPath": "C:\\Users\\Nhat Hao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nhat Hao\\Documents\\ASC.Solution\\ASC.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nhat Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2774,6 +2774,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2791,8 +2792,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -2823,7 +2823,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
